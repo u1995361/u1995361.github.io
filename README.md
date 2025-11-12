@@ -1,5 +1,4 @@
 # u1995361.github.io
-#CV
 
 # Personal CV Website — Jaume Cañellas López
 
