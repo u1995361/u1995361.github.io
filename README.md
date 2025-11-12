@@ -5,7 +5,7 @@
 A single-page personal CV website showcasing my skills, education, and projects related to programming and video game development (Godot + GDScript).
 
 - **Live site:** https://<your-username>.github.io/<your-repo>/
-- **Figma project:** <paste your public Figma link here>
+- **Figma project:** https://www.figma.com/design/Uq1sZTgdqwC7OirgsSKuVf/CV?node-id=0-1&t=z57nxloVpHV2Bc4s-1
 - **Tech stack:** HTML5, CSS3 (no frameworks), Google Fonts (Inter)
 
 ---
@@ -35,7 +35,7 @@ A single-page personal CV website showcasing my skills, education, and projects 
 
 ---
 
-## 2) Project Analysis — Information Architecture (≥200 words)
+## 2) Project Analysis — Information Architecture
 
 This project follows a **single-page structure** organized in two columns to optimize skim-reading. The **left column** contains stable, high-frequency reference content: contact information, languages, licenses, and skills. Placing these items on the left allows recruiters to verify essential facts immediately without scrolling deeply. The **skills** list highlights relevant technologies (Godot, GDScript, HTML/CSS/JS, Git/GitHub) and soft skills (teamwork, adaptability), which are frequently used as quick filters during screening.
 
@@ -45,7 +45,7 @@ Navigation is intentionally minimal (no navbar) to avoid distraction and reduce 
 
 ---
 
-## 3) Project Analysis — Visual Design (≥200 words)
+## 3) Project Analysis — Visual Design
 
 The visual design prioritizes **readability, hierarchy, and professional tone**. The layout uses a **two-column grid**: a compact sidebar for immutable data and a flexible main area for narrative sections. White cards with soft borders and rounded corners separate content blocks, improving scannability and reducing visual noise. The chosen typeface, **Inter**, offers excellent x-height and legibility at small sizes, which is ideal for dense CV content and multi-device rendering.
 
@@ -57,7 +57,7 @@ The header features the candidate’s **name in bold weight** and a concise subt
 
 ## Figma
 
-- Public link: <paste your public Figma link here>  
+- Public link: https://www.figma.com/design/Uq1sZTgdqwC7OirgsSKuVf/CV?node-id=0-1&t=z57nxloVpHV2Bc4s-1
 Include at least one frame with the full page design, color tokens (accent/neutral), and typography samples.
 
 ---
