@@ -4,7 +4,7 @@
 
 A single-page personal CV website showcasing my skills, education, and projects related to programming and video game development (Godot + GDScript).
 
-- **Live site:** https://u1995361.github.io/<your-repo>/
+- **Live site:** https://u1995361.github.io/
 - **Figma project:** https://www.figma.com/design/Uq1sZTgdqwC7OirgsSKuVf/CV?node-id=0-1&t=z57nxloVpHV2Bc4s-1
 - **Tech stack:** HTML5, CSS3 (no frameworks), Google Fonts (Inter)
 
@@ -73,7 +73,7 @@ Include at least one frame with the full page design, color tokens (accent/neutr
 
 1. Push this repo to GitHub.  
 2. Go to **Settings → Pages → Deploy from branch** and select the default branch root.  
-3. Your site will be available at `https://u1995361.github.io/<your-repo>/`.
+3. Your site will be available at `https://u1995361.github.io/`.
 
 ---
 
